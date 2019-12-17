@@ -1,6 +1,6 @@
 {
   "name": "egg-mongoose-auto-increment",
-  "version": "1.0.0",
+  "version": "3.0.2",
   "description": "eggPlugin mongoose auto increment egg egg-plugin egg-mongoose-auto-increment",
   "eggPlugin": {
     "name": "mongooseAutoIncrement"
@@ -36,10 +36,12 @@
     "autod": "autod"
   },
   "files": [
+    "index.d.ts",
     "app.js",
     "agent.js",
     "config",
-    "app"
+    "app",
+    "lib"
   ],
   "ci": {
     "version": "8, 10"
