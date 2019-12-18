@@ -11,6 +11,7 @@
     "egg-plugin"
   ],
   "dependencies": {
+    "moment-timezone": "^0.5.27",
     "mongoose": "^5.8.1"
   },
   "devDependencies": {
