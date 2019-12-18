@@ -1,6 +1,6 @@
 {
   "name": "egg-mongoose-auto-increment",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "eggPlugin mongoose auto increment egg egg-plugin egg-mongoose-auto-increment",
   "eggPlugin": {
     "name": "mongooseAutoIncrement"
@@ -49,12 +49,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-mongoose-auto-increment.git"
+    "url": "git+https://github.com/spadesk1991/egg-mongoose-auto-increment.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/spadesk1991/egg-mongoose-auto-increment/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-mongoose-auto-increment#readme",
+  "homepage": "https://github.com/spadesk1991/egg-mongoose-auto-increment#readme",
   "author": "spadesk",
   "license": "MIT"
 }
