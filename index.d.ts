@@ -5,7 +5,7 @@ declare module 'egg' {
         field?: String; // default: _id
         startAt?: number; // default: 0
         incrementBy?: number; // default: 1
-        // prefix?: String |Function | Promise<void>, // default: ""
+        prefix?: String |Function | Promise<void>, // default: ""
         /**
          * padStart maxLength
          * eg: padStartMaxLength= 5 ---> 00005
